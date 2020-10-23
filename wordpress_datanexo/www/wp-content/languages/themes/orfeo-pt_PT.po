@@ -1,0 +1,63 @@
+# Translation of Themes - Orfeo in Portuguese (Portugal)
+# This file is distributed under the same license as the Themes - Orfeo package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-07-02 13:48:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt\n"
+"Project-Id-Version: Themes - Orfeo\n"
+
+#. Theme Name of the plugin/theme
+msgid "Orfeo"
+msgstr "Orfeo"
+
+#: functions.php:73 functions.php:80
+msgid "Second Button text"
+msgstr "Texto do segundo botão"
+
+#: functions.php:98
+msgid "Second Button URL"
+msgstr "URL do segundo botão"
+
+#: functions.php:124 functions.php:144
+msgid "Second button text"
+msgstr "Texto do segundo botão"
+
+#: functions.php:142
+msgid "First button text"
+msgstr "Texto do primeiro botão"
+
+#: functions.php:298
+msgid "Read more"
+msgstr "Ler mais"
+
+#: functions.php:375 functions.php:379
+msgid "About Orfeo"
+msgstr "Sobre Orfeo"
+
+#. translators: s - theme name
+#: functions.php:384
+msgid "Welcome to %s! - Version "
+msgstr "Bem-vindo a %s! - Versão"
+
+#. #-#-#-#-#  orfeo.pot (Orfeo 1.0.6)  #-#-#-#-#
+#. Description of the plugin/theme
+#: functions.php:388
+msgid "Orfeo is a responsive WordPress theme with multipurpose design. It is a good fit for both small businesses and corporate businesses, as it is highly customizable via the Live Customizer. You can use Orfeo for restaurants, startups, freelancer resume, creative agencies, portfolios, WooCommerce, or niches like sports, medical, blogging, fashion, lawyer sites etc. It has a one-page design, Sendinblue newsletter integration, widgetized footer, and a clean appearance. The theme is compatible with Elementor Page Builder, Photo Gallery, Flat Parallax Slider, and Travel Map; it is mobile friendly and optimized for SEO."
+msgstr "Orfeo é um tema responsivo para WordPress, com um design multiusos. É excelente para pequenas e grandes empresas empresas, sendo personalizável através da pré-visualização no Personalizador. Pode usar Orfeo em sites de restaurantes,  startups, freelancers, que o podem usar como currículo, agências criativas, portfólios, para WooCommerce, e em nichos como clubes desportivos, clínicas médicas, para blog, moda e escritórios de advogados, etc. Tem um elegante layout de página única, oferece integração de newsletters com o Sendinblue, um rodapé modulável com widgets e uma apresentação sóbria. O tema é compatível com o construtor de páginas Elementor, Photo Gallery, Flat Parallax Slider e Travel Map. É adequado para dispositivos móveis e optimizado para SEO."
+
+#. Theme URI of the plugin/theme
+msgid "https://themeisle.com/themes/orfeo/"
+msgstr "https://themeisle.com/themes/orfeo/"
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
