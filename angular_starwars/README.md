@@ -1,6 +1,8 @@
-# Anguar Starwars
+# Anguar StarWars
 
-This project was created aims teach Angular to a class of front-end studants. Angular starwars consume the https://swapi.dev/ and list person and planets of the star wars universe. In this project I used routes, providers, views, components, services and others.
+This project was created to teach Angular to front-end students. 
+Angular StarWars consume the https://swapi.dev/ and list person and planets of the StarWars universe. 
+In this project I used routes, providers, views, components, services and others.
 
 
 ![Example](starwars.gif)

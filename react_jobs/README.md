@@ -1,5 +1,5 @@
 ### Simple list of jobs
-This is a simple example how to use react.js to construct a form, set and delete data.
+This is a simple example of how to use react.js to construct a form, set and delete data.
 
 Enjoy :)
 
