@@ -6,7 +6,9 @@ I made this project to understand how can I create a admin panel, models, views,
 
 
 
-### `python manage.py runserver`
+### Quick start
+
+Please, first run the command `pip install -r requirements.txt`, before run `python manage.py runserver`.
 
 It´s necessary install:
 
@@ -15,3 +17,5 @@ It´s necessary install:
 - Mysql python driver
 - Python 3
 - Django 3
+
+The requirements.txt contain this dependencies, but, maybe do you need install manually.
